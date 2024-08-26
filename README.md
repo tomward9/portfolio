@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio is a compilation of past and current projects that I have worked on at work or just for fun.
+This portfolio is a compilation of past and current projects that I have worked on at work, for fun, or more often than not, both.
 
 Before we get going, I would love to hear from you.  Let's connect at [linkedin.com/tom-ward](https://www.linkedin.com/in/tom-ward-1b7956135/).
 
