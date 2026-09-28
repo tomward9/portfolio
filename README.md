@@ -11,7 +11,7 @@ AB Testing is a critical method for optimizing web conversions through statistic
 
 #
 
-<img align="left" width="300" height="200" src="https://github.com/tomward9/portfolio/blob/main/Images/magisterium.png"> **[Magisterium AI API Calls](https://github.com/tomward9/magisteriumai_api_call)**
+<img align="left" width="300" height="200" src="https://github.com/tomward9/portfolio/blob/main/Images/magisterium.png"> **[AI API Calls](https://github.com/tomward9/magisteriumai_api_call)**
 
 Connecting to a large language model programmatically is a critical skill for moving past a chat window and into work that is reproducible and scriptable.  In this project, I show how to connect to the Magisterium AI platform through its API using Python and `requests`, build a reusable chat completion function, hold a multi-turn conversation with the full history preserved, and search the platform's Catholic source library.  API keys are kept out of the notebook and read from the environment instead.
 
