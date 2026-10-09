@@ -17,6 +17,12 @@ Connecting to a large language model programmatically is a critical skill for mo
 
 #
 
+<img align="left" width="300" src="https://github.com/tomward9/portfolio/blob/main/Images/budget.png"> **[Budget Dashboard](https://github.com/tomward9/budget)**
+
+A local-first budgeting dashboard built with Python, Streamlit, and Plotly.  It turns bank and credit-card CSV exports into a monthly budget check: how much came in, what went out by category, whether each category stayed on target, what was set aside for savings buckets, and what is left over.  The app spans four views (Budget, Trends, Transactions, and Savings) and ships with a full synthetic year of sample data, so it runs out of the box while keeping everything on your machine.  All money is handled in integer cents, and the logic is covered by a 298-test pytest suite.
+
+#
+
 
 
 
